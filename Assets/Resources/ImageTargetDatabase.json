@@ -1,0 +1,47 @@
+{
+	"ImageTargetDatabase":
+	[
+    {
+      "namecard": "hexuong",
+      "GID": 1
+    },
+
+    {
+      "namecard": "xuongchiduoi",
+      "GID": 8
+    },
+    
+    {
+      "namecard": "xuongchitren",
+      "GID": 6
+    },
+    
+    {
+      "namecard": "xuonglongnguc",
+      "GID": 5
+    },
+    
+    {
+      "namecard": "xuongchau",
+      "GID": 3
+    },
+
+    {
+      "namecard": "congucbung",
+      "GID": 28
+    },
+
+    {
+      "namecard": "codaumatco",
+      "GID": 106
+    },
+     {
+      "namecard": "hexuong1",
+      "GID": 1
+    },
+    {
+			"namecard": "heco",
+			"GID": 103	
+		}
+		]
+}
